@@ -9,6 +9,7 @@ Repo for tooling lesson (Forte Jedi Course)
 * [How to install Node.js](https://nodejs.dev/learn/how-to-install-nodejs)
 * [How much JavaScript do you need to know to use Node.js?](https://nodejs.dev/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs),
 * [Differences between Node.js and the Browser](https://nodejs.dev/learn/differences-between-nodejs-and-the-browser)
+* [Deno](https://deno.land/) ("New Node.JS" optional reading)
 
 ### 2. npm
 * [npm-init](https://docs.npmjs.com/cli-commands/init.html)
@@ -52,5 +53,5 @@ Repo for tooling lesson (Forte Jedi Course)
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [Hello World](https://guides.github.com/activities/hello-world/)
 
-#### Babel
-https://babeljs.io/
+### 7. Babel
+https://babeljs.io/docs/en/
