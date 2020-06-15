@@ -1,6 +1,6 @@
 ## Tooling Hometask
 
-#### 1. Create Github Private repo + Create PR (branch) for each of subtask
+#### 1. Create Github Public repo + Create PR (branch) for each of subtask
 
 #### 2. Create From Scratch Webpack Project(subtask)
 * First commit should include basic setup (entry/output sources, bundulizing)
