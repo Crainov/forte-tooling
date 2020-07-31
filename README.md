@@ -1,7 +1,7 @@
 # Forte-tooling
 Repo for tooling lesson (Forte Jedi Course)
 
-## Front-end tooling
+## Front-end tooling (Add monday sync)
 
 ### 1. Node JS
 * [Introduction to Node.js](https://nodejs.dev/learn/introduction-to-nodejs)
